@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495080882101",
+    "project_id": "study-app-506fc",
+    "storage_bucket": "study-app-506fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495080882101:android:6f1a206d166fd38efca3fc",
+        "android_client_info": {
+          "package_name": "app.study.com.study_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLc71hm8smVhFVBSbxsZl7tbVPatkqw4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
